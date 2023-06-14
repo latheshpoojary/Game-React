@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Game-React/static/css/main.818eb6e4.css",
+    "main.js": "/Game-React/static/js/main.80e32033.js",
+    "static/js/787.393238a3.chunk.js": "/Game-React/static/js/787.393238a3.chunk.js",
+    "static/media/logo.svg": "/Game-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Game-React/index.html",
+    "main.818eb6e4.css.map": "/Game-React/static/css/main.818eb6e4.css.map",
+    "main.80e32033.js.map": "/Game-React/static/js/main.80e32033.js.map",
+    "787.393238a3.chunk.js.map": "/Game-React/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.818eb6e4.css",
+    "static/js/main.80e32033.js"
+  ]
+}
